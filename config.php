@@ -3,7 +3,7 @@
 
 
 // user_name boleh kosong //
-$user_name=Okta Aditya Pratama;
+$user_name="Okta Aditya Pratama";
 
 //user_gaid wajib isi
 $user_gaid=7814a083-8525-475a-9387-bc9ce6972319;
